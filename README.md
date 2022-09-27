@@ -1,1 +1,1 @@
-Este é um jogo de ping-pong para o [Codeskulptor](py2.codeskultor.org)
+Este é um jogo de ping-pong para o [Codeskulptor](http://codeskulptor.org)
